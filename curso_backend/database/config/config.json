@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": null,
+    "password": null,
+    "database": "backend",
+    "host": "127.0.0.1",
+    "dialect": "sqlite",
+    "storage":"./backend.sqlite3"
+  },
+  "test": {
+    "username": null,
+    "password": null,
+    "database": "backend",
+    "host": "127.0.0.1",
+    "dialect": "sqlite",
+    "storage":"./backend.sqlite3"
+  },
+  "production": {
+    "username": null,
+    "password": null,
+    "database": "backend",
+    "host": "127.0.0.1",
+    "dialect": "sqlite",
+    "storage":"./backend.sqlite3"
+  }
+}
